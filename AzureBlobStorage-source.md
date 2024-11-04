@@ -17,7 +17,13 @@ If you prefer to explore the platform in your own time then have a look at our r
 
 👉[https://portal.demo.quix.io/pipeline?workspace=demo-gametelemetrytemplate-prod](https://portal.demo.quix.io/pipeline?workspace=demo-gametelemetrytemplate-prod&token=pat-0e3c85cd4fc5436998718c120dbd6df5&_ga=2.25371390.276140621.1730716142-1628354139.1730474801)
 
-## FAQ
+## FAQ 
+
+### How can I use this connector?
+
+Contact us to find out how to access this connector.
+
+[Book here!](https://share.hsforms.com/1iW0TmZzKQMChk0lxd_tGiw4yjw2?__hstc=175542013.19c333c2ae8002be5fbc6a17a447e442.1730474801833.1730474801833.1730716142494.2&__hssc=175542013.2.1730716142494&__hsfp=3927774151)
 
 ### Real-time data
 
